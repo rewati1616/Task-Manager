@@ -7,7 +7,7 @@ A clean, modern, and responsive to-do list web application built with **HTML, CS
 - ✅ Add new tasks quickly  
 - ✅ Mark tasks as completed
 - ✅ Delete individual tasks 
-- ✅ Real-time task statistics (Total & Completed) 
+- ✅ Real-time task statistics (Total & Completed)  
 - ✅ Beautiful, modern UI with smooth animations
 - ✅ Fully responsive design (works great on mobile) 
 - ✅ Tasks persist even after closing the browser
