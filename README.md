@@ -3,7 +3,7 @@
 A clean, modern, and responsive to-do list web application built with **HTML, CSS, and JavaScript**. Tasks are saved automatically in your browser using `localStorage`.
 
 ## ✨ Features 
-
+  
 - ✅ Add new tasks quickly   
 - ✅ Mark tasks as completed
 - ✅ Delete individual tasks 
