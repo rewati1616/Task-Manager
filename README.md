@@ -4,7 +4,7 @@ A clean, modern, and responsive to-do list web application built with **HTML, CS
 
 ## ✨ Features 
 
-- ✅ Add new tasks quickly  
+- ✅ Add new tasks quickly   
 - ✅ Mark tasks as completed
 - ✅ Delete individual tasks 
 - ✅ Real-time task statistics (Total & Completed)  
